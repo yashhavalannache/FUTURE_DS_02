@@ -107,4 +107,6 @@ FUTURE_DS_02/
 └── 📘 README.md
 ```
 
+![ SOCIAL MEDIA CAMPAIGN PERFORMANCE TRACKER DASHBOARD](3_Assets/dashboard.png)
+
 <p align="center"> ✨ Maintained by <a href="https://github.com/yashhavalannache">Yash Havalannache</a> ✨ </p> 
